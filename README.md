@@ -18,15 +18,6 @@ This repository serves as the **official storage** for scripts used in the Emine
 
 ---
 
-## 📁 Repository Structure
-
-- `/scripts` — Main directory for community and official scripts  
-- `/tools` — Utilities and helper scripts  
-- `/docs` — Documentation and policy files  
-- `/examples` — Sample scripts demonstrating best practices
-
----
-
 ## 📥 How to Contribute
 
 1. Fork the repository.  
