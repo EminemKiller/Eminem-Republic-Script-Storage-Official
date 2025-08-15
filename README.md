@@ -32,7 +32,7 @@ Please follow code style and documentation guidelines.
 
 ## ⚖️ License & Copyright
 
-All scripts are subject to their respective licenses. By contributing, you confirm you have the rights to submit the code. For detailed copyright information, see the [LICENSE](https://github.com/EminemKiller/Eminem-Republic-Script-Storage-Official/blob/main/Eminem%20Storage%20Copyright.txt](https://docs.google.com/document/d/13DfVA-Rmjgd43twejpg1AKUVPVOPBgmFWmmLKxoLgGs)) file and our [Copyright Policy]([link-to-your-policy](https://github.com/EminemKiller/Eminem-Republic-Script-Storage-Official/blob/main/Eminem%20Storage%20Copyright.txt)).
+All scripts are subject to their respective licenses. By contributing, you confirm you have the rights to submit the code. For detailed copyright information, see the [LICENSE](https://docs.google.com/document/d/13DfVA-Rmjgd43twejpg1AKUVPVOPBgmFWmmLKxoLgGs/edit?tab=t.0) file and our [Copyright Policy](https://github.com/EminemKiller/Eminem-Republic-Script-Storage-Official/blob/main/Eminem%20Storage%20Copyright.txt)
 
 ---
 
